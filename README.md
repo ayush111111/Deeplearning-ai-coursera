@@ -1,2 +1,2 @@
 # Deeplearning-ai-coursera
-Assignments from the 4 course specialisation provided by deeplearning.ai 
+Assignments from the 5 course specialisation provided by deeplearning.ai on coursera
